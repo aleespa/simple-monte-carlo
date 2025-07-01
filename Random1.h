@@ -1,5 +1,5 @@
-#ifndef RANDOM1_H
-#define RANDOM1_H
+#pragma once
+
 double GetOneGaussianBySummation();
 double GetOneGaussianByBoxMuller();
-#endif#pragma once
+
